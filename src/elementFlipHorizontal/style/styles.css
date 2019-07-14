@@ -20,7 +20,7 @@ body {
     transition: transform 1s;
 }
 
-.container__sub__element .flip {
+.container__sub.flip {
     transform: translateX(-100%) rotateY(-180deg);
 }
 
